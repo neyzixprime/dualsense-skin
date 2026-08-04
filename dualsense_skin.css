@@ -107,7 +107,7 @@ body {
     left: 237px;
     top: 97px;
 } .ds4 .touchpad.pressed {
-    background:  background: transparent;;
+     background: transparent;
 } .ds4 .dpad {
     position: absolute;
     width: 125px;
